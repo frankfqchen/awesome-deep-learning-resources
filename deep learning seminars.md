@@ -11,3 +11,5 @@
 * [Deep Learning Seminar](http://www.cs.jhu.edu/~cxliu/2016/deep-learning-seminar.html)
 
 * [Deep Learning Seminar](http://www.cs.technion.ac.il/~adleram/Deep%20Learning%20Seminar%202016_17.pdf)
+
+* [Block-Seminar on Deep Learning for Bio-Medical Image Analysis](https://lmb.informatik.uni-freiburg.de/lectures/seminar_ronneberger/)
