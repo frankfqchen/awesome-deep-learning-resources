@@ -3,3 +3,7 @@
 * [Deep Learning for Computer Vision: Seminal Work](https://cvg.ethz.ch/teaching/dlseminar/)
 
 * [Deep Learning Seminar](http://web.eng.tau.ac.il/deep_learn/)
+
+* [Deep Learning Seminar, Summer 2016/17](https://ufal.mff.cuni.cz/courses/npfl117/1617-summer)
+
+* [Deep Learning Seminar, Summer 2017/18](https://ufal.mff.cuni.cz/courses/npfl117/1718-summer#home)
