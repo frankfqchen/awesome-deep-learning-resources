@@ -7,3 +7,5 @@
 * [Deep Learning Seminar, Summer 2016/17](https://ufal.mff.cuni.cz/courses/npfl117/1617-summer)
 
 * [Deep Learning Seminar, Summer 2017/18](https://ufal.mff.cuni.cz/courses/npfl117/1718-summer#home)
+
+* [Deep Learning Seminar](http://www.cs.jhu.edu/~cxliu/2016/deep-learning-seminar.html)
